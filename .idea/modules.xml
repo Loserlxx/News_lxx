@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JPushExample(571618)/JPushExample(571618).iml" filepath="$PROJECT_DIR$/JPushExample(571618)/JPushExample(571618).iml" />
+      <module fileurl="file://$PROJECT_DIR$/News_App.iml" filepath="$PROJECT_DIR$/News_App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ormlite/ormlite.iml" filepath="$PROJECT_DIR$/ormlite/ormlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recycleview/recycleview.iml" filepath="$PROJECT_DIR$/recycleview/recycleview.iml" />
+    </modules>
+  </component>
+</project>

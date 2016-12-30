@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_entry"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin.news_app.activity.EntryActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_email_entry_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/tiet_email_entry_activity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="请输入人您的邮箱："
+                android:drawableLeft="@drawable/email"
+                android:ems="8"
+                />
+
+        </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/til_password_entry_activity"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <android.support.design.widget.TextInputEditText
+                android:id="@+id/tiet_password_entry_activity"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="请输入人您的密码："
+                android:drawableLeft="@drawable/password"
+                android:ems="8"
+                android:inputType="textPassword"
+                />
+
+        </android.support.design.widget.TextInputLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="登录"
+            android:onClick="entry"
+            />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="注册"
+            android:onClick="register"
+            />
+        </LinearLayout>
+    </LinearLayout>
+    
+</RelativeLayout>

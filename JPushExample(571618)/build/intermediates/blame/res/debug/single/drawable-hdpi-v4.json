@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\andorid_studio_work\\News_App\\JPushExample(571618)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiledstripes.xml",
+        "source": "F:\\andorid_studio_work\\News_App\\JPushExample(571618)\\res\\drawable-hdpi\\tiledstripes.xml"
+    },
+    {
+        "merged": "F:\\andorid_studio_work\\News_App\\JPushExample(571618)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_progressbar.xml",
+        "source": "F:\\andorid_studio_work\\News_App\\JPushExample(571618)\\res\\drawable-hdpi\\richpush_progressbar.xml"
+    },
+    {
+        "merged": "F:\\andorid_studio_work\\News_App\\JPushExample(571618)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\corners_bg.xml",
+        "source": "F:\\andorid_studio_work\\News_App\\JPushExample(571618)\\res\\drawable-hdpi\\corners_bg.xml"
+    },
+    {
+        "merged": "F:\\andorid_studio_work\\News_App\\JPushExample(571618)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "F:\\andorid_studio_work\\News_App\\JPushExample(571618)\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    }
+]

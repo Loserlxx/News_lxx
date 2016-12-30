@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News_App</string>
+    <string name="title_activity_lead">LeadActivity</string>
+    <string name="close">close</string>
+    <string name="open">open</string>
+    <string name="title_activity_glide_image_loader">GlideImageLoader</string>
+</resources>
